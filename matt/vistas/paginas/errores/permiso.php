@@ -1,0 +1,1 @@
+<h1>No tines acceso, contacta al administrador del sistema.</h1>
